@@ -3,6 +3,10 @@ name: mirrors.hostever.com
 address:
   http: http://mirrors.hostever.com/almalinux/
   https: https://mirrors.hostever.com/almalinux/
+geolocation:
+  country: BD
+  state_province:
+  city: Dhaka
 update_frequency: 3h
 sponsor: CodeforHost Inc
 sponsor_url: https://www.codeforhost.com
